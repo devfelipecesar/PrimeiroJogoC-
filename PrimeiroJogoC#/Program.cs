@@ -7,7 +7,7 @@ do
 
     if (chute == numeroSecreto)
     {
-        Console.WriteLine("Parabéns!, Você acertou o número.");
+        Console.WriteLine("O jogo acabou, você acertou o número secreto!");
         break;
     }
     else if (chute < numeroSecreto)
