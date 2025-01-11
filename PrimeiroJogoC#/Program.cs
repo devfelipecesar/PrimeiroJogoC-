@@ -1,0 +1,2 @@
+﻿int numeroSecreto = 42;
+
