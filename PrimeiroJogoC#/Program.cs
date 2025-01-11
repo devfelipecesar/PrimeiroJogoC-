@@ -1,4 +1,6 @@
-﻿int numeroSecreto = 42;
+﻿
+Random aleatorio = new Random();
+int numeroSecreto = aleatorio.Next(1,101);
 
 do
 {
